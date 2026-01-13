@@ -1,4 +1,4 @@
-﻿DateTime aniversario = new DateTime(1999, 03, 01);
+﻿DateTime aniversario = new(1999, 03, 01);
 
 aniversario = aniversario.AddDays(12);
 

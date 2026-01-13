@@ -1,7 +1,4 @@
-﻿using System.Globalization;
-using System.Reflection.PortableExecutable;
-
-object pessoaFabio = new
+﻿object pessoaFabio = new
 {
     nome = "Fabio",
     idade = 22,
